@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software developer @ D2L, in Kitchener, Ontario.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[benyamin.noori@gmail.com](mailto:benyamin.noori@gmail.com)
