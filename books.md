@@ -6,9 +6,11 @@ permalink: /books/
 
 I'm using this page to track the books I've been reading every month!
 
-### December 2019
+### January 2020
 
 * [Fahrenheit 451](https://www.amazon.ca/Fahrenheit-451-Novel-Ray-Bradbury/dp/1451673310)
+
+### December 2019
 
 * [To Kill A Mockingbird](https://www.amazon.ca/Kill-Mockingbird-Harper-Lee/dp/0446310786)
 
