@@ -8,6 +8,8 @@ I'm using this page to track the books I've been reading every month!
 
 ### January 2020
 
+* [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.ca/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
+
 * [Fahrenheit 451](https://www.amazon.ca/Fahrenheit-451-Novel-Ray-Bradbury/dp/1451673310)
 
 ### December 2019
