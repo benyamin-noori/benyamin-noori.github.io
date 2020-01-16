@@ -8,12 +8,14 @@ I'm using this page to track the books I've been reading every month!
 
 ### January 2020
 
+* [It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.ca/Its-That-Youre-Not-Understand/dp/1622039076/)
+
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.ca/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 
-* [Fahrenheit 451](https://www.amazon.ca/Fahrenheit-451-Novel-Ray-Bradbury/dp/1451673310)
+* [Fahrenheit 451](https://www.amazon.ca/Fahrenheit-451-Novel-Ray-Bradbury/dp/1451673310/)
 
 ### December 2019
 
-* [To Kill A Mockingbird](https://www.amazon.ca/Kill-Mockingbird-Harper-Lee/dp/0446310786)
+* [To Kill A Mockingbird](https://www.amazon.ca/Kill-Mockingbird-Harper-Lee/dp/0446310786/)
 
-* [Permanent Record](https://www.amazon.ca/dp/B07STQPGH6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Permanent Record](https://www.amazon.ca/dp/B07STQPGH6/)
