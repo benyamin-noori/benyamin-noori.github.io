@@ -8,6 +8,8 @@ I'm using this page to track the books I've been reading every month!
 
 ### January 2020
 
+* [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.ca/How-Solve-Aspect-Mathematical-Method/dp/069116407X/)
+
 * [It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand](https://www.amazon.ca/Its-That-Youre-Not-Understand/dp/1622039076/)
 
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.ca/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
