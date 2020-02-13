@@ -8,9 +8,13 @@ I'm using this page to track the books I've been reading every month!
 
 ### February 2020
 
-* [Webhooks: Events for RESTful APIs](https://www.amazon.ca/gp/product/1979717060/)
+* [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.ca/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
 
 * [The Diary of A Young Girl](https://www.amazon.ca/gp/product/B06Y19N3NS/)
+
+* [A Young Girl's Diary](https://www.amazon.ca/gp/product/1583964894/): Yes, I did read this book by mistake, thinking it was Anne Frank's diary, but I still enjoyed reading it very much. Five stars! 
+
+* [Webhooks: Events for RESTful APIs](https://www.amazon.ca/gp/product/1979717060/)
 
 ### January 2020
 
