@@ -6,6 +6,10 @@ permalink: /books/
 
 I'm using this page to track the books I've been reading every month!
 
+### March 2020
+
+* [The Mythical Man Month](https://www.amazon.ca/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
+
 ### February 2020
 
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.ca/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
