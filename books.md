@@ -8,6 +8,8 @@ I'm using this page to track the books I've been reading every month!
 
 ### March 2020
 
+* [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.ca/Everybody-Lies-Internet-About-Really/dp/0062390864/)
+
 * [The Mythical Man Month](https://www.amazon.ca/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)
 
 ### February 2020
