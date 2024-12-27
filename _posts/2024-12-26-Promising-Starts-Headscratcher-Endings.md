@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Promising Starts, Headscratcher Endings: Emilia Perez & Queer
+title: "Promising Starts, Headscratcher Endings: Emilia Perez & Queer"
 ---
 
 2024 has been a great year for me, [film-wise](https://www.imdb.com/title/tt0053604/quotes/). Thanks to my near-obsession with tracking metrics about my life, I know that, as of December 26th, I’ve watched exactly 125 films this year. It's not extraordinary, but given my target of 100 films per year, I'd say I'm doing pretty well. Among these 125 films are Emilia Perez and Queer. While they have little in common in terms of subject matter, themes, or style, they share a strikingly similar viewing experience for me. Both of these films start very strong, but their endings leave the viewer confused as to how the narrative ended up where it did. With this post, I'm lamenting a different issue from what I wrote about the Cut in a [previous post](https://benyamin-noori.github.io/The-Cut-Was-A-Terrible-Film/) because The Cut presented a mesmerizing, coherent storyline that fell apart just at the last minute. That was not the case with Emilia Perez and Queer. Interestingly, both of these films are similarly rated on Rotten Tomatoes (75 and 76 out of 100), though I doubt that has anything to do with my perception as a viewer. 
@@ -18,7 +18,7 @@ Reflecting on the story, it seems that after the pivotal meeting in the London r
 
 
 ## Queer
-Next up is Queer. I've enjoyed other films by Luca Guadagnino in the past (Call Me By Your Name, Challengers, Bones and All) though I'm not a very dedicated fan as I've mostly watched his more recent work. The film has colorful and flashy aesthetics and the music, while anachronistic, contributes to the sensational performance from Daniel Craig whose performance I would categorize as award-worthy. He perfectly captures the essence of the character, even when the plot loses its way, about halfway through. 
+Next up is Queer. I've enjoyed other films by Luca Guadagnino in the past (Call Me By Your Name, Challengers, Bones and All) though I'm not a very dedicated fan as I've mostly watched his more recent work. The film has colorful and flashy aesthetics and beautifully set up shots, and the music, while anachronistic, contributes to the sensational performance from Daniel Craig whose performance I would categorize as award-worthy. He perfectly captures the essence of the character, even when the plot loses its way, about halfway through. 
 
 Much like Emilia Perez, Queer starts with an electrifying opening sequence that immediately draws you in, during which Lee (Daniel Craig), a retired military man who's decided to spend his twilight years living the dream south of border in Mexico, is going around town eyeing potential hook up candidates for the day. A few days later he meets Eugene (Drew Starkey), who he falls in love with at first sight. The story soon becomes one of one way love, of Lee desperately trying for Eugene's affection while he offers none. After lots of pleading, they finally set off to travel to even further south, to Panama and Ecuador together. 
 
